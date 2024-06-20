@@ -2,7 +2,7 @@ import java.awt.image.AreaAveragingScaleFilter;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-import java.util.Scanner;gi
+import java.util.Scanner;
 
 public class example2 {
 
